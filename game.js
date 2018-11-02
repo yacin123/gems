@@ -2,8 +2,8 @@ const Discord = require('discord.js');
 const client = new Discord.Client();  
 const fs = require("fs"); 
 const moment = require("moment");  
-const prefix = "" //بريفيكس بوتك
-const token = [""]; //توكن بوتك 
+const prefix = "p" //بريفيكس بوتك
+const token = ["NTA3OTk0MjA3MjE5MjIwNDgw.Dr4yDQ.mIimhzD6L3HZ_qnaPTX8b37ddlg"]; //توكن بوتك 
 //العاب//
 const codes = {
     ' ': '   ',
